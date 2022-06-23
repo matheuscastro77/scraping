@@ -7,10 +7,6 @@
   Ele retorna uma página de localhost com todos os subtítulos e também abre uma nova aba, onde entra na página e você
   pode ver os subtítulos através do console.
 
-## Link
-[Link](https://challenge-covid-daily.vercel.app/)
-
-
 ## List with language, framework and/or technologies used
 <ul>
 	<li>NodeJs</li>
