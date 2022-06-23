@@ -7,7 +7,7 @@
   Ele retorna uma página de localhost com todos os subtítulos e também abre uma nova aba, onde entra na página e você
   pode ver os subtítulos através do console.
 
-## List with language, framework and/or technologies used
+## Lista com linguagens, framework e/ou tecnologias usadas
 <ul>
 	<li>NodeJs</li>
 	<li>JavaScript</li>
